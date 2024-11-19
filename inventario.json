@@ -1,0 +1,22 @@
+{
+    "001": {
+        "nombre": "Manzanas",
+        "precio": 0.5,
+        "cantidad": 50
+    },
+    "002": {
+        "nombre": "Naranjas",
+        "precio": 0.6,
+        "cantidad": 30
+    },
+    "003": {
+        "nombre": "Pl\u00e1tanos",
+        "precio": 0.4,
+        "cantidad": 25
+    },
+    "004": {
+        "nombre": "kk",
+        "precio": 3.0,
+        "cantidad": 3
+    }
+}
